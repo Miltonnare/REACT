@@ -1,9 +1,9 @@
 
-# MERN Stack Integration 
+# MERN Stack Integration Assignment
 
-This focuses on building a full-stack MERN (MongoDB, Express.js, React.js, Node.js) application that demonstrates seamless integration between front-end and back-end components.
+This assignment focuses on building a full-stack MERN (MongoDB, Express.js, React.js, Node.js) application that demonstrates seamless integration between front-end and back-end components.
 
-##Overview
+## Assignment Overview
 
 You will build a blog application with the following features:
 1. RESTful API with Express.js and MongoDB
@@ -12,7 +12,7 @@ You will build a blog application with the following features:
 4. User authentication and authorization
 5. Advanced features like image uploads and comments
 
-## Project Structure
+## Project 
 
 ```
 mern-blog/
